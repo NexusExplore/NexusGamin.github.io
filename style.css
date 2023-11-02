@@ -45,9 +45,9 @@ nav ul li a:hover {
 
 .game-tile {
     background-color: #949494;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     color: #ffffff;
     border-radius: 30px;
-    font-size: 50;
+    font-size: 25;
 }
